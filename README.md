@@ -16,7 +16,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 
 
 ```bash
-pip install imagen_processing
+pip install Comparador-de-imagenes==0.0.1
 ```
 
 ## Author
