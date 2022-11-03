@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: Comparador-de-imagenes
+Version: 0.0.1
+Summary: Comparacion de imagenes.
+Home-page: https://github.com/Estebanjgg/image_processing
+Author: Esteban Gonzalez
+Author-email: esteban030990@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Imagen_processing
+
+
+Description.
+
+    Processing:
+
+* Histrogram matching
+* Structural similarity
+* Resize image
+
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+
+```bash
+pip install imagen_processing
+```
+
+## Author
+
+Esteban Gonzalez
+
+## LIcense
+
+[MLT](https://choosealicence.com\\licences/mit/)

@@ -1,0 +1,13 @@
+README.md
+setup.py
+Comparador_de_imagenes.egg-info/PKG-INFO
+Comparador_de_imagenes.egg-info/SOURCES.txt
+Comparador_de_imagenes.egg-info/dependency_links.txt
+Comparador_de_imagenes.egg-info/requires.txt
+Comparador_de_imagenes.egg-info/top_level.txt
+processing/__init__.py
+processing/combination.py
+processing/transformation.py
+utils/__init__.py
+utils/io.py
+utils/plot.py
