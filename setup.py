@@ -17,10 +17,10 @@ setup(
     description=("Comparacion de imagenes."),
     long_description=page_description,
     long_description_content_type="text/markdown",           
-    url="http://packages.python.org/an_example_pypi_project",
+    url="https://github.com/Estebanjgg/image_processing",
     packages=find_packages(),
-    install_requires=requirements.txt,
-  python_requires='>=3.8',
+    install_requires=requirements,
+    python_requires='>=3.8',
    
 
 )
